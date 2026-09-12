@@ -236,3 +236,6 @@ This repository serves as the official landing page for Karaoke Anything!. The s
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://karaokeanything.com)
 
 **Get the most recent version of Karaoke Anything! today!**
+
+---
+**Last updated:** 2026-09-12 12:01:07 UTC
