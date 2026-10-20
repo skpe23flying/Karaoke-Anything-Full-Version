@@ -238,4 +238,4 @@ This repository serves as the official landing page for Karaoke Anything!. The s
 **Get the most recent version of Karaoke Anything! today!**
 
 ---
-**Last updated:** 2026-10-20 14:42:37 UTC
+**Last updated:** 2026-10-20 18:56:18 UTC
